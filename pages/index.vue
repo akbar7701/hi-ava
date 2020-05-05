@@ -39,7 +39,7 @@
         :showCursor="false"
         :loop="true"
         :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'I Love You>_<']"
-        :backDelay="50"
+        :backDelay="100"
         :typeSpeed="100"
         :backSpeed="50"
         :contentType="'null'"
