@@ -41,7 +41,7 @@
         :strings="[greetings() + ', ' + nicknames + '! ^5000', 'I always wanted to tell you... ^2500', 'I Love You>_<']"
         :backDelay="100"
         :typeSpeed="100"
-        :backSpeed="100"
+        :backSpeed="300"
         :contentType="'null'"
       >
         <h1 class="typing"></h1>
